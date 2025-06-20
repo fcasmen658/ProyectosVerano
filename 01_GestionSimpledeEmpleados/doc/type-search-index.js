@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.indalosoftware","l":"Empleado"},{"p":"com.indalosoftware","l":"Main"}];updateSearchResults();
