@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.indalosoftware'
+version = '1.0-SNAPSHOT'
+compileJava.options.encoding = 'UTF-8'                      //In build.gradle
+compileTestJava.options.encoding = "UTF-8"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+compileJava.options.encoding = 'UTF-8'
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(JavaExec).configureEach {
+    jvmArgs += ['-Dfile.encoding=UTF-8']
+}
+
+test {
+    useJUnitPlatform()
+}
