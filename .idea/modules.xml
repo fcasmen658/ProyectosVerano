@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados.iml" filepath="$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados2.iml" filepath="$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_CalculadoraBasica/02_CalculadoraBasica.iml" filepath="$PROJECT_DIR$/02_CalculadoraBasica/02_CalculadoraBasica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ControlDeEstudiantes/03_ControlDeEstudiantes.iml" filepath="$PROJECT_DIR$/03_ControlDeEstudiantes/03_ControlDeEstudiantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_TiendaDeProductos/04_TiendaDeProductos.iml" filepath="$PROJECT_DIR$/04_TiendaDeProductos/04_TiendaDeProductos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_CuentaBancariaSimple/05_CuentaBancariaSimple.iml" filepath="$PROJECT_DIR$/05_CuentaBancariaSimple/05_CuentaBancariaSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_GestionDeTareasPendientes/06_GestionDeTareasPendientes.iml" filepath="$PROJECT_DIR$/06_GestionDeTareasPendientes/06_GestionDeTareasPendientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_ConversorDeUnidades/07_ConversorDeUnidades.iml" filepath="$PROJECT_DIR$/07_ConversorDeUnidades/07_ConversorDeUnidades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_JuegoDeAdivinanzaDeNumeros/08_JuegoDeAdivinanzaDeNumeros.iml" filepath="$PROJECT_DIR$/08_JuegoDeAdivinanzaDeNumeros/08_JuegoDeAdivinanzaDeNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_BibliotecaDeLIbros/09_BibliotecaDeLIbros.iml" filepath="$PROJECT_DIR$/09_BibliotecaDeLIbros/09_BibliotecaDeLIbros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_GestionDeVehiculos/10_GestionDeVehiculos.iml" filepath="$PROJECT_DIR$/10_GestionDeVehiculos/10_GestionDeVehiculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_GestionDeContactos/11_GestionDeContactos.iml" filepath="$PROJECT_DIR$/11_GestionDeContactos/11_GestionDeContactos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_InventarioDeTienda/12_InventarioDeTienda.iml" filepath="$PROJECT_DIR$/12_InventarioDeTienda/12_InventarioDeTienda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_AlumnosYNotas/13_AlumnosYNotas.iml" filepath="$PROJECT_DIR$/13_AlumnosYNotas/13_AlumnosYNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_RegistroDeLibros/14_RegistroDeLibros.iml" filepath="$PROJECT_DIR$/14_RegistroDeLibros/14_RegistroDeLibros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_CatalogoDePeliculas/15_CatalogoDePeliculas.iml" filepath="$PROJECT_DIR$/15_CatalogoDePeliculas/15_CatalogoDePeliculas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_Empleados/23_Empleados.iml" filepath="$PROJECT_DIR$/23_Empleados/23_Empleados.iml" />
     </modules>
   </component>
 </project>
