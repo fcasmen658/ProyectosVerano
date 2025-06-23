@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados2.iml" filepath="$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados.iml" filepath="$PROJECT_DIR$/01_GestionSimpledeEmpleados/01_GestionSimpledeEmpleados.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_CalculadoraBasica/02_CalculadoraBasica.iml" filepath="$PROJECT_DIR$/02_CalculadoraBasica/02_CalculadoraBasica.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_ControlDeEstudiantes/03_ControlDeEstudiantes.iml" filepath="$PROJECT_DIR$/03_ControlDeEstudiantes/03_ControlDeEstudiantes.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_TiendaDeProductos/04_TiendaDeProductos.iml" filepath="$PROJECT_DIR$/04_TiendaDeProductos/04_TiendaDeProductos.iml" />
