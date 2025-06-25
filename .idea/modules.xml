@@ -17,7 +17,6 @@
       <module fileurl="file://$PROJECT_DIR$/13_AlumnosYNotas/13_AlumnosYNotas.iml" filepath="$PROJECT_DIR$/13_AlumnosYNotas/13_AlumnosYNotas.iml" />
       <module fileurl="file://$PROJECT_DIR$/14_RegistroDeLibros/14_RegistroDeLibros.iml" filepath="$PROJECT_DIR$/14_RegistroDeLibros/14_RegistroDeLibros.iml" />
       <module fileurl="file://$PROJECT_DIR$/15_CatalogoDePeliculas/15_CatalogoDePeliculas.iml" filepath="$PROJECT_DIR$/15_CatalogoDePeliculas/15_CatalogoDePeliculas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/23_Empleados/23_Empleados.iml" filepath="$PROJECT_DIR$/23_Empleados/23_Empleados.iml" />
     </modules>
   </component>
 </project>
