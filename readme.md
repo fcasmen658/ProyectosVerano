@@ -88,7 +88,7 @@ Estos ejercicios están pensados como recursos educativos para reforzar el uso d
 
 ## 🛠️ Requisitos
 
-- JDK 17 o superior
+- JDK 21 o superior
 - Entorno de desarrollo como IntelliJ IDEA, Eclipse o NetBeans
 
 ---
